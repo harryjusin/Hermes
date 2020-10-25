@@ -44,11 +44,11 @@ by _양선형,오승준,장원준,정주신,조수환_
 ### 개발환경
 
 
--Python 3.8.x
-  -pip
-  -numpy
-  -TensorFlow 2.2+
-  -OpenCV
-  -이외 표시되는 라이브러리
--git
--Visual Studio Code
+- Python 3.8.x
+  - pip
+  - numpy
+  - TensorFlow 2.2+
+  - OpenCV
+  - 이외 표시되는 라이브러리
+- git
+- Visual Studio Code
